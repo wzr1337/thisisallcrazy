@@ -1,0 +1,22 @@
+{
+  "name": "thisisallcrazy",
+  "version": "1.0.0",
+  "description": "just testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzr1337/thisisallcrazy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wzr1337/thisisallcrazy/issues"
+  },
+  "homepage": "https://github.com/wzr1337/thisisallcrazy#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}

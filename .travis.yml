@@ -1,0 +1,11 @@
+language: node_js
+
+services:
+  - docker
+
+before_install:
+  - docker pull hello-world
+  - docker run hello-world
+
+script:
+  - npm run test
